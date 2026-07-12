@@ -8,8 +8,7 @@ This is my personal portfolio website showcasing my education, projects, and ski
 - JavaScript
 
 ## Live Demo
-https://benhcinekhadija-lang.github.io/personal-portfolio/
-
+https://benhcinekhadija-lang.github.io/personal-portfolio./
 ## Contact
 - Email: benhcinekhadija@gmail.com
 - GitHub: https://github.com/benhcinekhadija-lang
